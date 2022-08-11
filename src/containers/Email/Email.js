@@ -11,7 +11,10 @@ export default function Email() {
   });
   const handleSubmit = async (event) => {
     event.preventDefault();
-    await axios.post("http://localhost:5000/auth/sendmail", form);
+    await axios.post(
+      "https://food-order-narenthar.herokuapp.com//auth/sendmail",
+      form
+    );
     console.log(form);
   };
 
