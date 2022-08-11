@@ -34,7 +34,7 @@ export default function LoginPage() {
           <h5 className="text-center">Let's get started</h5>
 
           <img
-            src="https://w7.pngwing.com/pngs/811/233/png-transparent-computer-icons-user-login-desktop-others-blue-computer-prints.png"
+            src="https://png.pngtree.com/png-vector/20191110/ourmid/pngtree-avatar-icon-profile-icon-member-login-vector-isolated-png-image_1978396.jpg"
             className="w-50 mb-2"
             alt=""
           />
