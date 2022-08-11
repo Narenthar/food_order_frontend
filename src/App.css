@@ -1,0 +1,14 @@
+* {
+  font-family: "Aboreto", cursive;
+}
+
+/* .warning {
+  color: #92817a;
+} */
+.warning {
+  color: #a65340;
+}
+
+.danger {
+  color: #abc798;
+}

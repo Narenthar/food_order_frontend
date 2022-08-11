@@ -1,0 +1,7 @@
+.product_temp_card{
+    width: 17rem;
+    transition: transform .3s;
+}
+.product_temp_card:hover{
+    transform: scale(1.1);
+}
