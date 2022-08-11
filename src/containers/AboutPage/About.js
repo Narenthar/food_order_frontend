@@ -21,7 +21,7 @@ export default function About() {
         <div className="col-sm-6 text-end">
           <img
             className="w-50"
-            src="https://flyclipart.com/thumb2/bowl-food-japanese-food-noodles-ramen-icon-218817.png"
+            src="https://i.pinimg.com/originals/0e/54/9b/0e549b5aed444afa9205521f80e6262e.png"
             alt="noodles"
           />
         </div>
