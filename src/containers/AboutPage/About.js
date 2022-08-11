@@ -21,8 +21,8 @@ export default function About() {
         <div className="col-sm-6 text-end">
           <img
             className="w-50"
-            src="https://pngimg.com/uploads/noodle/noodle_PNG63.png"
-            alt=""
+            src="https://flyclipart.com/thumb2/bowl-food-japanese-food-noodles-ramen-icon-218817.png"
+            alt="noodles"
           />
         </div>
         {/* About content */}
