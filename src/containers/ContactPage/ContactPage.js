@@ -26,7 +26,7 @@ export default function ContactPage() {
       <div className="row mt-4 m-2">
         {/* Address */}
         <div className="col-sm-6 text-center">
-          <h2 className="MainContent_Text ">Corporate office</h2>
+          <h2 className="MainContent_Text ">Visit Us</h2>
           <p className="text-secondary">
             <span> China Town </span>
             <br />
