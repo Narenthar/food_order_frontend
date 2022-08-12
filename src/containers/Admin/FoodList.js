@@ -156,7 +156,7 @@ export function AddFoodList() {
   // image to string converted function
   const onLoad = (fileString) => {
     setImage(fileString);
-    setbase64code = fileString;
+    setbase64code(fileString);
   };
 
   // Image file reader function
@@ -362,7 +362,7 @@ export function EditFoodForm({ food }) {
   // image file converted to string
   const onLoad = (fileString) => {
     setImage(fileString);
-    setbase64code = fileString;
+    setbase64code(fileString);
   };
 
   // image file reader
