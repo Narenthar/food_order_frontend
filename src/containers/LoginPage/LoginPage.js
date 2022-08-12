@@ -51,7 +51,6 @@ export default function LoginPage() {
                 const {
                   data: { authToken },
                 } = await axios.post(`${ProductAPI}/auth/login`, values);
-                console.log(values);
                 window.localStorage.setItem("authToken", authToken);
                 window.localStorage.setItem("email", values.email);
                 navigate("/products");

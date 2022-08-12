@@ -12,7 +12,7 @@ export default function Email() {
   const handleSubmit = async (event) => {
     event.preventDefault();
     await axios.post(
-      "https://food-order-narenthar.herokuapp.com//auth/sendmail",
+      "https://food-order-narenthar.herokuapp.com/auth/sendmail",
       form
     );
     console.log(form);
