@@ -102,6 +102,14 @@ export default function Admin() {
                       Login
                     </button>
                   </div>
+                  <div>
+                    <h4>Admin Id :</h4>
+                    <p style={{ textTransform: "lowercase" }}>
+                      narenthar31@gmail.com
+                    </p>
+                    <h4>Password :</h4>
+                    <p style={{ textTransform: "lowercase" }}>password</p>
+                  </div>
                 </div>
               </Form>
             )}
